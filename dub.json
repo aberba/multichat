@@ -1,0 +1,19 @@
+{
+	"name": "multichat",
+	"authors": [
+		"Lawrence Aberba"
+	],
+	"dependencies": {
+		"vibe-d": "~>0.7.30",
+		
+		"diet-ng": "~>1.1.1",
+		"requests": "~>0.4.1"
+	},
+	"description": "A translated chat session app",
+	"copyright": "Benjamin Owusu",
+	"versions": [
+		"VibeDefaultMain",
+		"DietUseCache"
+	],
+	"license": "proprietary"
+}
